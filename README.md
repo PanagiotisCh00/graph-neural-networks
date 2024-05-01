@@ -1,1 +1,3 @@
 # graph-neural-networks
+
+This repository includes a coursework I did in Imperial College London for the course "Deep Graph Based Learning". In this coursework I implemented different concepts and machine learning algorithms we learnt in class about graph based machine learning. The first part includes a centrality based graph classification, the second is an implementation of GraphSAGE with node sampling and the third is an Attention-based aggregation in node classificatio. Finally for the last part i implemented the propagation rule integrating edge features/embeddings. Through this coursework I gained hands-on experience on graph neural networks, different ways on how they can be used and how much powerful they can be.
